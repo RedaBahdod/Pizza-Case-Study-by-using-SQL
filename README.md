@@ -5,8 +5,8 @@
   - [Tools](#tools)
   - [Exploratory Data Analysis](#exploratory-data-analysis)
 
-  
-  ### Project Overview
+---  
+  ### Project Overview:
 I'm excited to share my latest project focused on analyzing the sales performance of our Pizza Business.<br>
 This project aims to uncover valuable insights and trends that can help us make informed, data-driven decisions to improve our business strategy and overall performance.<br>
 By examining various aspects of our sales data, I plan to identify key trends, spot growth opportunities, and address any challenges we've encountered.<br>
@@ -37,4 +37,5 @@ Task:
 8. Determine the distribution and total of orders from each day
 9. Group the orders by date and calculate the average number of pizzas ordered per day.
 10. Determine the top 3 most ordered pizza types based on revenue.
+
 
